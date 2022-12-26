@@ -18,15 +18,13 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 - Client's Ask:
 The company is looking at prospective properties to buy to enter the market. The key ask is to build a model which can predict the actual value of the prospective properties and accordingly decide whether to invest in them or not.The company wants to know: Which variables are significant in predicting the price of a house, and hHow well those variables describe the price of a house.
 
-- Business Goal¶
+- Business Goal:
 This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Optimal value for alpha for Ridge and Lasso regression is '7.0' & '0.0001' respectively
-- Lasso Regression Model is concluded as best model as simpler than Ridge Model
-- Most important predictors are concluded and noted in Jupyter Notebook as well as the PDF file  
+- Lasso Regression Model is best model as simpler than Ridge Model with decent metrics 
+- All important details are well captured in Jupyter Notebook as well as in the PDF file atatched   
 
 ## Technologies Used
 - Python - version 3.5 (64 bits)
