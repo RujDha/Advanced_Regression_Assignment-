@@ -1,6 +1,7 @@
 # Project Name
 > Housing Sale Price - Advanced Regression Assignment 
-A regression model is required to predict the actual value of the prospective properties and accordingly the client can decide whether to invest in them or not.
+
+> A regression model is required to predict the actual value of the prospective properties and accordingly the client can decide whether to invest in them or not.
 
 ## Table of Contents
 * [General Info](#general-information)
